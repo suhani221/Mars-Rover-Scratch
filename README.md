@@ -1,11 +1,14 @@
-# mars
+# Mars Rover Projett
 Video Link:https://drive.google.com/file/d/1H9A9GyIlL0OWqRDKABmjysJkQMMCC5xf/view?usp=sharing
+
+
+
+
 
 OPERATIONS:
 
 1)Orbital:
 https://scratch.mit.edu/projects/573229863
-
 
 2)Surface:
 https://scratch.mit.edu/projects/572994059
